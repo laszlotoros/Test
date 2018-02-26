@@ -79,3 +79,28 @@ font-size: 12px;}
     padding-top: 12px;
     text-shadow: 2px 2px 5px #c34b2a;
 }
+
+
+
+.about{font-family: Bariol;
+    background-color: #232324;
+}
+.about h2{
+    font-size: 32px;
+    letter-spacing: 5px;
+    padding-top: 12px;
+    color: white;
+}
+
+.about h3{
+    font-size: 16px;
+    color: #c34b2a;
+    font-weight: 100;
+}
+
+.about h4{
+    color: white;
+    font-weight: 100;
+    font-size: 22px;    
+    
+}
