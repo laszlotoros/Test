@@ -56,3 +56,26 @@ font-size: 12px;}
     transform: rotate(45deg) translate(-5px, -5px);
 }
 
+.header{
+    background-color: #eb4f4e;
+    color: white;
+}
+
+.header h1{
+    text-align: center;
+    font-family: Bariol;
+    font-size: 50px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    padding-top: 40px;
+    text-shadow: 2px 2px 5px #c34b2a;
+}
+.header h2{
+    text-align: center;
+    font-family: Bariol;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    padding-top: 12px;
+    text-shadow: 2px 2px 5px #c34b2a;
+}
